@@ -28,19 +28,27 @@ Generates secure random passwords
 
 Run with:
 
-python password_generator.py
-Task 3 - (Will be added soon)
+password_generator.py
+Task 3 - CalculatorA simple calculator built using python.
+User can perform basic arithmetic operations like:
+- Addition
+- Subtraction
+- Multiplication
+- Division
 
-Next project will be uploaded here.
+Run with:
+calculator.py
 
 📂 Repository Structure
 CODSOFT/
-│── Task 1 - ToDo List/
-│   └── todo_list_t2.py
-│   └── tasks.txt
+│-- Task 1 - ToDo List/
+│       todo_list_t2.py
+│       tasks.txt
 │
-│── Task 2 - Password Generator/
-│   └── password_generator.py
+│-- Task 2 - Password Generator/
+│       password_generator.py
+|-- Task 3 - Calculator/
+|       calculator.py
 │
 └── README.md
 
@@ -55,6 +63,6 @@ File handling
 ✍️ Submitted by: Prithiyangira Devi
 📅 Internship: CODSOFT Python Programming
 
-🔹 Task 3 - (Will be added soon)
+
 
 Next project will be uploaded here.
